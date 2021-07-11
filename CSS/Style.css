@@ -1,0 +1,237 @@
+#cv{
+	color: white;
+	text-align: center;
+	border: 1px solid black;
+	background-color: cadetblue;
+	width: 500px;
+	margin-left: 30%
+}
+#mi{
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: green;
+}
+.menuc1{
+	float: left;
+	
+  color: white;
+  text-align: center;
+  padding: 14px 26px;
+  text-decoration: none;
+}
+#menuc12{
+	float: left;
+	
+  color: white;
+  text-align: center;
+  padding-left: 12px;
+  text-decoration: none;
+  width: 65px;
+  margin-left: -11px
+}
+#dropdown1{
+	position: relative;
+	background-color: ;
+	text-align: center;
+	/*border: 1px solid black*/;
+	margin-top: 0px;
+	height:34px;
+	padding-top: 12px
+}
+ 
+
+#dropdown_content1{
+	position: absolute;
+	display: none; 
+	background-color: grey;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+	margin-top: 0px;
+	margin-left:-120px ;
+	 	
+}
+#dropdown_content1 a{
+	text-decoration: none;
+	display:block;
+	color: white;
+	padding-top:15px;
+
+}
+#menuc12:hover #dropdown_content1{
+	display: block;
+}
+#dropdown1:hover{
+	background-color: red
+}
+h2{
+	color: seagreen;
+}
+.li1{
+	color: seagreen;
+}
+#raz{
+	margin-left: 149px
+}
+#andri{
+	margin-left: 131px
+}
+#jour{
+	margin-left: 23px
+}
+#mal{
+	margin-left: 111px
+}
+#num{
+	margin-left: 114px
+}
+#tso{
+	margin-left: 152px
+}
+#form{
+	margin-left: 94px
+}
+#bacc{
+	margin-left: 157px
+}
+#brevet{
+	margin-left: 158px
+}
+#stage{
+	margin-left: 155px
+}
+#duree{
+	margin-left: 512px
+}
+table,th,td{
+	border: 3px solid black;
+	border-collapse: collapse;
+}
+table{
+	width: 73%;
+	height: 102px;
+}
+td{
+	text-align: center;
+}
+#cc1,#cc2,#cc3,#cc4{
+	background-color: lightseagreen;
+	color: white
+}
+/*ra tsy natao text area fa input le cc4 de io no angedana azy*/
+#cc4{
+	width: 485px;
+	height:96px;
+}
+#save{
+	margin-left: 190px;
+	width: 87px;
+	height: 30px;
+}
+#anh{
+	border: 3px solid red;
+	background-color: yellow;
+	text-align: center;
+	font-family: "cursive";
+	font-size: 6vw;
+}
+b.io{
+	font-size: 24px
+}
+#p1r{
+	margin-left: 24%
+}
+#p1a{
+	margin-left: 21%
+
+}
+#p19{
+	margin-left: 7%
+}
+#p1m{
+	margin-left: 19%
+}
+#p10{
+	margin-left: 19%
+}
+#p1p{
+	margin-left: 24%
+}
+.menp{
+	background-color: rgb(255, 195, 77);
+	text-align: center;
+	color: white;
+	width: 79px;
+	margin-left: 150px
+}
+#bodp1{
+	 background-color: white
+}
+#tab1{
+	background-image: url("image/MALAGASY.png");
+}
+#clp4{
+
+	color: beige;
+	background-color:burlywood;
+	font-family: "Cooper  black";
+	text-align: center;
+
+}
+#edp_2{
+	text-align: center;
+	color: white;
+	font-family: ;
+	background-color: rgb(51, 153, 102)
+}
+#expp_3{
+	text-align: center;
+	color: white;
+	font-family: ;
+	background-color: rgb(102, 102, 153)
+}
+.dmen{
+	margin-left: 32px
+}
+#menu1{
+	margin-left:111px; 
+	color: dimgrey;
+}
+#dur_p3{
+	font-size: 28px
+
+}
+.sp4{display: none;
+	position: absolute;
+	box-shadow: 30px;
+	width: 96px;
+	height: 42px;
+	z-index:-1;
+	bottom: 10%;
+	right:-10%;
+}
+#tp4{
+	margin-left: 14%
+}
+#lp4{
+	height: 80px
+}
+#bp4{
+	background-color: khaki
+}
+#form_1{
+	margin-left: 50px
+}
+.dropdown{
+	position: relative;
+	display: inline-block;
+}
+.mp4{
+	;
+	text-align: center
+}
+.dropdown:hover .sp4{
+	display: inline-block;
+	
+}
